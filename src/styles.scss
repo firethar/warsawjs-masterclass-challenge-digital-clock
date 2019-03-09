@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0; padding: 0;
+  background: rgb(98,48,13);
+  background: linear-gradient(0deg, rgba(98,48,13,1) 0%, rgba(25,27,27,1) 100%);
+  font-family: 'Audiowide', cursive;
+  color: #d6d6d6;
+  overflow: hidden;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+h1, h2 {
+  font-weight: normal;
+}
