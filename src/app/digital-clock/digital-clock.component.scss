@@ -1,0 +1,21 @@
+.clock-face {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 30px;
+  margin: 0 auto;
+  border: 1px solid #ffffff;
+}
+
+.clock-hours,
+.clock-minutes,
+.clock-seconds {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}

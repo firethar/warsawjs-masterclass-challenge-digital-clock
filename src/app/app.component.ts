@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'warsawjs-masterclass-challenge-digital-clock';
+  title = 'WarsawJS - Angular Masterclass';
+  subTitle = 'Challenge 2 : Digital Clock';
 }
